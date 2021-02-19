@@ -1,0 +1,58 @@
+# Rime table
+# coding: utf-8
+#@/db_name  custom_phrase.txt
+#@/db_type	tabledb
+#
+# 用於【朙月拼音】系列輸入方案
+# 【鼠须管】0.9.21 以上
+#
+# 自定义短语
+# 位置：  ~/Library/Rime/custom_phrase.txt
+# 於重新部署後生效
+# 
+# 碼表各字段以製表符（Tab）分隔
+# 順序爲：文字、編碼、權重（決定重碼的次序、可選）
+#
+# 雖然文本碼表編輯較爲方便，但不適合導入大量條目
+#
+# no comment
+
+	apple	1
+Apple	apple	2
+Mac	mac
+MacBook	macbook
+MacBook Air	macbookair
+MacBook Pro	macbookpro
+iMac	imac
+iMac Pro	imacpro
+Mac Pro	macpro
+Mac mini	macmini
+macOS	macos
+Mac OS X	macosx
+OS X	osx
+iPad	ipad
+iPadOS	ipados
+iPhone	iphone
+iOS	ios
+ Watch	watch
+iPod	ipod
+AirPods	airpods
+ tv	tv
+iTunes	itunes
+iCloud	icloud
+⌘	cmd
+⌘	command
+⇧	shift
+⌥	opt
+⌥	option
+⌃	ctrl
+⌃	control
+⎋	esc
+⇪	caps
+↩︎	enter
+↩︎	return
+↩︎	huiche
+⌫	del
+China	china	2
+🇨🇳	china	1
+

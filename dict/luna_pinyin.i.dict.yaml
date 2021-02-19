@@ -1,0 +1,22 @@
+# Rime dictionary
+# encoding: utf-8
+# luna_pinyin.i.dict.yaml
+# Souce: https://pinyin.sogou.com/dict/detail/index/4
+
+---
+name: luna_pinyin.i
+version: "2021.02.12"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+在嗎	zai ma	4567
+在麼	zai me	567
+微博	wei bo	3456
+知乎	zhi hu	876
+吃吃	chi chi	123
+喫雞	chi ji	1234
+U盘	u pan	1234
+T恤	t xu	1234
+T恤衫	t xu shan	1234
+三百六十五	san bai liu shi wu	365

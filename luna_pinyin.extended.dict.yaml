@@ -1,0 +1,21 @@
+# Rime dictionary
+# encoding: utf-8
+# Luna Pinyin Extended Dictionary  - 明月拼音擴充詞庫
+# 部署位置： ~/Library/Rime  (Mac OS)
+# 於重新部署後生效
+
+---
+name: luna_pinyin.extended
+version: "2015.12.02"
+sort: by_weight
+use_preset_vocabulary: true
+#此處爲明月拼音擴充詞庫默認鏈接載入的詞庫，如果不需要加載某个詞庫請將其用「#」註釋掉。
+import_tables:
+  - luna_pinyin  # 朙月拼音官方詞庫
+  - dict/luna_pinyin.i
+  - dict/luna_pinyin.name
+  - dict/luna_pinyin.hanyu
+  - dict/luna_pinyin.zhwiki
+  - dict/sogou_pinyin.poem
+  - dict/sogou_pinyin.idiom
+  - dict/sogou_pinyin.newwords

@@ -1,0 +1,19 @@
+# Rime dictionary
+# encoding: utf-8
+# luna_pinyin.name.dict.yaml
+# Souce: https://pinyin.sogou.com/dict/detail/index/4
+
+---
+name: luna_pinyin.name
+version: "2021.02.12"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+李逯
+金玉
+程金玉
+子悅
+李子悅
+葉明淨
+胡夢
