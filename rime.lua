@@ -1,3 +1,4 @@
+-- 插入当前日期时间
 function date_translator(input, seg)
     if (input == "rq") then
         --- Candidate(type, start, end, text, comment)
