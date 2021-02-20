@@ -3,7 +3,6 @@
 ## 文件说明
 
 ```bash
-.
  📝 README.md                                 # 使用说明书
  📄 custom_phrase.txt                         # 配置文件 - 自定义短语，不适合导入大量条目
  📄 default.custom.yaml                       # 配置文件 - 自定义一些输入法的功能（全局设定）
