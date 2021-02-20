@@ -15,7 +15,7 @@
     📖 dict/sogou_pinyin.newwords.dict.yaml   # 词库文件 - 网络流行新词（搜狗词库）
     📖 dict/sogou_pinyin.poem.dict.yaml       # 词库文件 - 古诗词（搜狗词库）
  📄 essay.txt                                 # 配置文件 - 八股文词频库
- 📄 luna_pinyin.custom.yaml                   # 配置文件 - 朙月拼音用户设定
+ 📄 luna_pinyin.custom.yaml                   # 配置文件 - 明月拼音用户设定
  📄 luna_pinyin.extended.dict.yaml            # 词库文件 - 明月拼音扩展词库
  📁 opencc/                                   # OpenCC（开放中文转换）目录
     📄 opencc/emoji_word.txt                  # 配置文件 - Rime Emoji 条目
